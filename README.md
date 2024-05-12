@@ -1,4 +1,4 @@
-#Analysis of Coupon Acceptance Based
+# Analysis of Coupon Acceptance
 
 ### Summary of Findings
 
